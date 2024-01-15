@@ -1,3 +1,8 @@
+## Credits
+
+**Author:** CodeWizardAdil ([GitHub Profile](https://github.com/CodeWizardAdil))
+
+
 Python Keylogger with Google Drive Upload
 
 Overview
