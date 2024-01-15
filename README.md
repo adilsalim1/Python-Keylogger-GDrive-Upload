@@ -34,5 +34,10 @@ Installation
     Share the target Google Drive folder with the service account email.
 
 5.  Configure the script:
-    pen keylogger.py and replace SERVICE_ACCOUNT_FILE and PARENT_FOLDER_ID with your values.
+
+     pen keylogger.py and replace SERVICE_ACCOUNT_FILE and PARENT_FOLDER_ID with your values.
+
+7. Run the script:
+
+   Python keylogger.py
 
