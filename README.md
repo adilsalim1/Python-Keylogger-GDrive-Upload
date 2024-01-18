@@ -21,7 +21,7 @@ Installation
 
 1. Clone the repository:
 
-   git clone https://github.com/YourUsername/Python-Keylogger-GDrive-Upload.git
+   git clone https://github.com/CodeWizardAdil/Python-Keylogger-GDrive-Upload.git
 
    cd Python-Keylogger-GDrive-Upload
 
